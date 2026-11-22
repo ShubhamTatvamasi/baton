@@ -1,0 +1,11 @@
+.baton/runs/
+.baton/state.json
+__pycache__/
+*.pyc
+.venv/
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
